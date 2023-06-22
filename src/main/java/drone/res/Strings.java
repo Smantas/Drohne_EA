@@ -1,4 +1,4 @@
-package res;
+package drone.res;
 
 public interface Strings
 {

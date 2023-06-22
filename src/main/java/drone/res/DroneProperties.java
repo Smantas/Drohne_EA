@@ -1,4 +1,4 @@
-package res;
+package drone.res;
 
 import java.util.ArrayList;
 

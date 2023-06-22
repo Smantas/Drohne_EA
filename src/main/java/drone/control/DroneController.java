@@ -1,6 +1,6 @@
-package control;
+package drone.control;
 
-import model.Drone;
+import drone.model.Drone;
 
 public class DroneController implements Runnable
 {

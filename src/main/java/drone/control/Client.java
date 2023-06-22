@@ -1,4 +1,4 @@
-package control;
+package drone.control;
 
 public class Client implements Runnable
 {

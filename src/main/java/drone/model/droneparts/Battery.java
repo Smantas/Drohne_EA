@@ -1,8 +1,6 @@
-package model.droneparts;
+package drone.model.droneparts;
 
-import res.DroneProperties;
-
-import java.security.DrbgParameters;
+import drone.res.DroneProperties;
 
 public class Battery
 {

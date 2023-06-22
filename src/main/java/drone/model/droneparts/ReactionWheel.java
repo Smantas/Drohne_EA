@@ -1,7 +1,4 @@
-package model.droneparts;
-
-import java.util.ArrayList;
-import java.util.List;
+package drone.model.droneparts;
 
 public class ReactionWheel extends Motor
 {

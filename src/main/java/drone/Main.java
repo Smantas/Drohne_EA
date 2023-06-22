@@ -1,5 +1,7 @@
-import control.DroneController;
-import model.Drone;
+package drone;
+
+import drone.control.DroneController;
+import drone.model.Drone;
 import org.json.simple.JSONObject;
 
 public class Main

@@ -1,4 +1,4 @@
-package model.droneparts;
+package drone.model.droneparts;
 
 import java.util.ArrayList;
 

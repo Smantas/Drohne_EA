@@ -1,7 +1,7 @@
-package model;
+package drone.model;
 
-import model.droneparts.*;
-import res.DroneProperties;
+import drone.model.droneparts.*;
+import drone.res.DroneProperties;
 
 import java.util.ArrayList;
 

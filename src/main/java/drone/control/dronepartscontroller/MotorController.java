@@ -1,4 +1,4 @@
-package control.dronepartscontroller;
+package drone.control.dronepartscontroller;
 
 public class MotorController implements Runnable
 {

@@ -1,4 +1,4 @@
-package model.droneparts;
+package drone.model.droneparts;
 
 public abstract class ElectronicsComponent
 {

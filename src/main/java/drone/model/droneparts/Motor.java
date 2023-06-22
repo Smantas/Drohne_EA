@@ -1,6 +1,6 @@
-package model.droneparts;
+package drone.model.droneparts;
 
-import res.DroneProperties;
+import drone.res.DroneProperties;
 
 public class Motor extends ElectronicsComponent
 {
